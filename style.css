@@ -1,0 +1,22 @@
+.text-justify{
+    text-align: justify;
+}
+.title-fs{
+    font-size: 8em;
+}
+.red-badge{
+    background-color: #841f23;
+    clip-path: polygon(0 0, 94% 1%, 100% 100%, 0% 100%);;
+}
+.tc-red{
+    color: #841f23;
+}
+.black-badge{
+    height: 4em;
+    width: 4em;
+    background-color: #020202;
+    font-size: 0.9em;
+}
+.pic-caption{
+    margin-bottom: -14em;
+}
